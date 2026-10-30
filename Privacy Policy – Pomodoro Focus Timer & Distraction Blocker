@@ -1,0 +1,16 @@
+Privacy Policy – Pomodoro Focus Timer & Distraction Blocker
+Last updated: 30 October 2026
+
+This extension does not collect, transmit, sell or share any personal data.
+
+What is stored: your settings, blocklist and allowlist, schedules, tasks, session history and progress (goals, streaks, achievements). This data is stored only on your device in the browser's local extension storage and never leaves it.
+
+Website access: when a site is blocked, the extension checks the address of the page you are opening against your list of blocked sites, locally. It does not record your browsing history and does not read page content.
+
+Network: the extension makes no network requests and uses no analytics, advertising or third-party services.
+
+Permissions: optional access to websites is requested only for sites you choose to block, and you can revoke it at any time in chrome://extensions.
+
+Deleting data: removing the extension deletes all of its stored data.
+
+Contact: pkowiel27@gmail.com
